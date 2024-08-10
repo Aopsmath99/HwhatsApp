@@ -13,10 +13,10 @@ starting your server, you will also need to input a username. Then, you can crea
 to it or be added to a chat by friends to start communicating. At any point you can switch accounts
 as long as you know the userID of the other user (i.e. your password). The logout command stops the
 instance of your program.
+### Demo 
+[Demo](https://www.loom.com/embed/ef6e74570c5645e8b390e8989db26721?sid=91379507-e3da-4e4e-a9ed-e7f2b86b9ae1)
  
-Demo (To Come):
- 
-Features to come:
+### Features to come:
 1) Permission removals by chat owner
 2) Support for other message types, not just strings
 3) Fixing some of the common concurreny bugs like chats not updating in real time sometimes
